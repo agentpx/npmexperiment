@@ -1,0 +1,23 @@
+{
+  "name": "npmexperiment",
+  "version": "1.0.0",
+  "description": "My very first package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agentpx/npmexperiment.git"
+  },
+  "keywords": [
+    "npm",
+    "expirement"
+  ],
+  "author": "agentpx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agentpx/npmexperiment/issues"
+  },
+  "homepage": "https://github.com/agentpx/npmexperiment#readme"
+}
